@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Baaru!  
+# Hi there 👋, I'm Baarhavi!  
 
 💫 **About Me:**  
 “A passionate Full-Stack Web Developer | Building modern web applications & contributing to open-source” 👨‍💻
