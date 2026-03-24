@@ -6,7 +6,11 @@ A passionate full-stack web developer based in Salem. Welcome to my GitHub profi
 ---
 
 🌐 **Socials:**  
-[Instagram] (https://www.instagram.com/__.baaruu._/?hl=en) | [LinkedIn] (https://www.linkedin.com/in/baarhavi-m-d-cse/) | [Portfolio](https://yourportfolio.link)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.baaruu._/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baarhavi-m-d-cse/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://yourportfolio.link)
+
 
 ---
 
