@@ -13,7 +13,6 @@ A passionate full-stack web developer based in Salem. Welcome to my GitHub profi
 
 
 ---
-
 💻 **Tech Stack:**  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,8 +25,6 @@ A passionate full-stack web developer based in Salem. Welcome to my GitHub profi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tool Name](https://img.shields.io/badge/<TOOL>-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=<LOGO_COLOR>)
-
 ---
 
 🏆 **Achievements / Open Source:**  
