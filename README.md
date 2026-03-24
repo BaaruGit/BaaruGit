@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Baaru!  
 
 💫 **About Me:**  
-A passionate full-stack web developer based in Salem. Welcome to my GitHub profile! 👨‍💻
+“A passionate Full-Stack Web Developer | Building modern web applications & contributing to open-source” 👨‍💻
 
 ---
 
